@@ -256,30 +256,29 @@
 			{
 				"modId": "693749C732392CF5",
 				"name": "FF - Faircroft Islands"
-			}
+			},
+            {
+                "modId": "6875030CAD04AE0A",
+                "name": "FF - Trash Can"
+            },
+            {
+                "modId": "624732FAB6DF1DEA",
+                "name": "Prontos Westland Lynx"
+            },
+            
+            {
+                "modId": "657D4A2BC729ADD0",
+                "name": "Fiercests Autorun"
+            },
+            {
+                "modId": "69C66B67A96D01C3",
+                "name": "Westland Lynx for British"
+            }
 		]
 
 // CANDIDATE MODS
 
-  {
-    "modId": "624732FAB6DF1DEA",
-    "name": "Prontos Westland Lynx"
-  },
-  
-  {
-    "modId": "6875030CAD04AE0A",
-    "name": "FF - Trash Can"
-  },
 
-  {
-    "modId": "657D4A2BC729ADD0",
-    "name": "Fiercests Autorun"
-  },
-
-  {
-    "modId": "69C66B67A96D01C3",
-    "name": "Westland Lynx for British"
-  },
 
   {
     "modId": "684CE8AA3B1D6573",
