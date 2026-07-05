@@ -4,251 +4,253 @@
    
 // CURRENT MODS
 
+"mods": [
     {
-        "modId": "60ECF27A4CC0223B",
-        "name": "H Squadron SAS - 1970s British"
-    },
-    {
-        "modId": "617AC5E57EF1D9E3",
-        "name": "Zagoria 89 Vehicles"
-    },
-    {
-        "modId": "65FB51CDA61F1071",
-        "name": "ToH ReCharacters Greek"
-    },
-    {
-        "modId": "62A711001B8FDEEA",
-        "name": "Chungus Rifles"
-    },
-    {
-        "modId": "65FB5184A09FE8A1",
-        "name": "ToH ReCharacters Asian"
-    },
-    {
-        "modId": "65134A128837CAA7",
-        "name": "Cold War Colour"
-    },
-    {
-        "modId": "5D1880C4AD410C14",
-        "name": "M1 Abrams"
-    },
-    {
-        "modId": "629B2BA37EFFD577",
-        "name": "WCS_Armaments"
-    },
-    {
-        "modId": "5965550F24A0C152",
-        "name": "Where Am I"
-    },
-    {
-        "modId": "612F512CD4CB21D5",
-        "name": "WCS_Earplugs"
-    },
-    {
-        "modId": "5DBD560C5148E1DA",
-        "name": "ACE Carrying"
-    },
-    {
-        "modId": "CAFEBEEFF0CACC1A",
-        "name": "Freedom Fighters"
-    },
-    {
-        "modId": "623E0EA4ED5F44D5",
-        "name": "FAL"
-    },
-    {
-        "modId": "5E389BB9F58B79A6",
-        "name": "SpaceCore"
-    },
-    {
-        "modId": "60C4CE4888FF4621",
-        "name": "ACE Core"
-    },
-    {
-        "modId": "6528F296E88F783F",
-        "name": "RTG Launches"
-    },
-    {
-        "modId": "5F268647F8A1A1F4",
-        "name": "CRX Enfusion A.I."
-    },
-    {
-        "modId": "64C912EF952E1075",
-        "name": "ToH ReCharacters Core"
-    },
-    {
-        "modId": "611CB1D409001EB0",
-        "name": "ACE Magazine Repack"
-    },
-    {
-        "modId": "670E75F4CD4FAD0F",
-        "name": "FF - Bandit Gear"
-    },
-    {
-        "modId": "6528C95796EBEDE0",
-        "name": "Environmental Ambience Mod"
-    },
-    {
-        "modId": "65FB52DAABB24B05",
-        "name": "ToH ReCharacters Tanoan"
-    },
-    {
-        "modId": "69C1000000000001",
-        "name": "FF - Loot Transfer"
-    },
-    {
-        "modId": "62E354B50264C08F",
-        "name": "Project Sonar - Radio Stations"
-    },
-    {
-        "modId": "6604E763072BC99B",
-        "name": "FF - British Forces"
-    },
-    {
-        "modId": "64ED6553B8AF6B62",
-        "name": "Atmospheric Weather Mod"
-    },
-    {
-        "modId": "65FB5265B4F72F4B",
-        "name": "ToH ReCharacters Russian"
-    },
-    {
-        "modId": "66B523AD189F3233",
-        "name": "Bandit Gear"
-    },
-    {
-        "modId": "606C369BAC3F6CC3",
-        "name": "ACE Finger"
-    },
-    {
-        "modId": "66E5745C788755C6",
-        "name": "FF-WCS-RearmVehicles"
-    },
-    {
-        "modId": "65FB5234B4A8E20B",
-        "name": "ToH ReCharacters Livonian"
-    },
-    {
-        "modId": "65FB4A6CFFC4079C",
-        "name": "ToH ReCharacters European"
-    },
-    {
-        "modId": "65774AA4EFF2BC0F",
-        "name": "Fiercests Waypoints 3X"
-    },
-    {
-        "modId": "628933A0D3A0D700",
-        "name": "WCS_Mi-24V"
-    },
-    {
-        "modId": "606B100247F5C709",
-        "name": "Bacon Loadout Editor"
-    },
-    {
-        "modId": "66D6340C1D565C98",
-        "name": "Chungus Core"
-    },
-    {
-        "modId": "68912CC1755A038A",
-        "name": "FF - Recruit Management & UC"
-    },
-    {
-        "modId": "62CCD69DD17E4F2F",
-        "name": "AKI_Core"
-    },
-    {
-        "modId": "69B0100000000001",
-        "name": "FF - Logistics Tent"
-    },
-    {
-        "modId": "61344BDC155A5A28",
-        "name": "Chungus LMGs"
-    },
-    {
-        "modId": "61BD6595183FCEBD",
-        "name": "Chungus Bolt Guns"
-    },
-    {
-        "modId": "5D6EA74A94173EDF",
-        "name": "Enfusion Database Framework"
-    },
-    {
-        "modId": "60E6F54E174C53C5",
-        "name": "Chungus SMGs"
-    },
-    {
-        "modId": "596330D9AF34AF38",
-        "name": "ToH ReCharacters Man"
-    },
-    {
-        "modId": "690C24D3A6E6109D",
-        "name": "FF - DynamicLoot"
-    },
-    {
-        "modId": "65FB50F7FA33DECA",
-        "name": "ToH ReCharacters African"
-    },
-    {
-        "modId": "5D6EBC81EB1842EF",
-        "name": "Enfusion Persistence Framework"
-    },
-    {
-        "modId": "612851D73DF01668",
-        "name": "WCS_FlipPush"
-    },
-    {
-        "modId": "61B84088181A8FA4",
-        "name": "Motorbike"
-    },
-    {
-        "modId": "5E0AB16BEB16D6A4",
-        "name": "T-72 Main Battle Tank"
-    },
-    {
-        "modId": "66B2F0B008DC590F",
-        "name": "DynamicLoot"
-    },
-    {
-        "modId": "620E584B1D2C96A4",
-        "name": "Chungus Shotguns"
-    },
-    {
-        "modId": "66DE15760F187E40",
-        "name": "FF-WhereIsTheBattle"
-    },
-    {
-        "modId": "64594B4F6C4E9718",
-        "name": "improved reforger ragdolls"
-    },
-    {
-        "modId": "65FB762EB503CCF9",
-        "name": "ToH ReCharacters Persian"
-    },
-    {
-        "modId": "5E5C154FEE1094BB",
-        "name": "M113 APC"
-    },
-    {
-        "modId": "6190F1B505C08562",
-        "name": "Chungus Launchers"
-    },
-    {
-        "modId": "631D09484433EB0A",
-        "name": "FIA Mi-8"
-    },
-    {
-        "modId": "5E524E4FEECCA92B",
-        "name": "BMP-1 IFV"
-    },
-    {
-        "modId": "658B25CD90247D38",
-        "name": "Dark Echoes"
-    },
-    {
-        "modId": "5D0551624969C92E",
-        "name": "Zeliks Character"
-    },
-    {
-        "modId": "5AE50EC5B8D6F4AE",
-        "name": "British Forces"
-    }
+		"modId": "60ECF27A4CC0223B",
+		"name": "H Squadron SAS - 1970s British"
+	},
+	{
+		"modId": "617AC5E57EF1D9E3",
+		"name": "Zagoria 89 Vehicles"
+	},
+	{
+		"modId": "65FB51CDA61F1071",
+		"name": "ToH ReCharacters Greek"
+	},
+	{
+		"modId": "62A711001B8FDEEA",
+		"name": "Chungus Rifles"
+	},
+	{
+		"modId": "65FB5184A09FE8A1",
+		"name": "ToH ReCharacters Asian"
+	},
+	{
+		"modId": "65134A128837CAA7",
+		"name": "Cold War Colour"
+	},
+	{
+		"modId": "5D1880C4AD410C14",
+		"name": "M1 Abrams"
+	},
+	{
+		"modId": "629B2BA37EFFD577",
+		"name": "WCS_Armaments"
+	},
+	{
+		"modId": "5965550F24A0C152",
+		"name": "Where Am I"
+	},
+	{
+		"modId": "612F512CD4CB21D5",
+		"name": "WCS_Earplugs"
+	},
+	{
+		"modId": "5DBD560C5148E1DA",
+		"name": "ACE Carrying"
+	},
+	{
+		"modId": "CAFEBEEFF0CACC1A",
+		"name": "Freedom Fighters"
+	},
+	{
+		"modId": "623E0EA4ED5F44D5",
+		"name": "FAL"
+	},
+	{
+		"modId": "5E389BB9F58B79A6",
+		"name": "SpaceCore"
+	},
+	{
+		"modId": "60C4CE4888FF4621",
+		"name": "ACE Core"
+	},
+	{
+		"modId": "6528F296E88F783F",
+		"name": "RTG Launches"
+	},
+	{
+		"modId": "5F268647F8A1A1F4",
+		"name": "CRX Enfusion A.I."
+	},
+	{
+		"modId": "64C912EF952E1075",
+		"name": "ToH ReCharacters Core"
+	},
+	{
+		"modId": "611CB1D409001EB0",
+		"name": "ACE Magazine Repack"
+	},
+	{
+		"modId": "670E75F4CD4FAD0F",
+		"name": "FF - Bandit Gear"
+	},
+	{
+		"modId": "6528C95796EBEDE0",
+		"name": "Environmental Ambience Mod"
+	},
+	{
+		"modId": "65FB52DAABB24B05",
+		"name": "ToH ReCharacters Tanoan"
+	},
+	{
+		"modId": "69C1000000000001",
+		"name": "FF - Loot Transfer"
+	},
+	{
+		"modId": "62E354B50264C08F",
+		"name": "Project Sonar - Radio Stations"
+	},
+	{
+		"modId": "6604E763072BC99B",
+		"name": "FF - British Forces"
+	},
+	{
+		"modId": "64ED6553B8AF6B62",
+		"name": "Atmospheric Weather Mod"
+	},
+	{
+		"modId": "65FB5265B4F72F4B",
+		"name": "ToH ReCharacters Russian"
+	},
+	{
+		"modId": "66B523AD189F3233",
+		"name": "Bandit Gear"
+	},
+	{
+		"modId": "606C369BAC3F6CC3",
+		"name": "ACE Finger"
+	},
+	{
+		"modId": "66E5745C788755C6",
+		"name": "FF-WCS-RearmVehicles"
+	},
+	{
+		"modId": "65FB5234B4A8E20B",
+		"name": "ToH ReCharacters Livonian"
+	},
+	{
+		"modId": "65FB4A6CFFC4079C",
+		"name": "ToH ReCharacters European"
+	},
+	{
+		"modId": "65774AA4EFF2BC0F",
+		"name": "Fiercests Waypoints 3X"
+	},
+	{
+		"modId": "628933A0D3A0D700",
+		"name": "WCS_Mi-24V"
+	},
+	{
+		"modId": "606B100247F5C709",
+		"name": "Bacon Loadout Editor"
+	},
+	{
+		"modId": "66D6340C1D565C98",
+		"name": "Chungus Core"
+	},
+	{
+		"modId": "68912CC1755A038A",
+		"name": "FF - Recruit Management & UC"
+	},
+	{
+		"modId": "62CCD69DD17E4F2F",
+		"name": "AKI_Core"
+	},
+	{
+		"modId": "69B0100000000001",
+		"name": "FF - Logistics Tent"
+	},
+	{
+		"modId": "61344BDC155A5A28",
+		"name": "Chungus LMGs"
+	},
+	{
+		"modId": "61BD6595183FCEBD",
+		"name": "Chungus Bolt Guns"
+	},
+	{
+		"modId": "5D6EA74A94173EDF",
+		"name": "Enfusion Database Framework"
+	},
+	{
+		"modId": "60E6F54E174C53C5",
+		"name": "Chungus SMGs"
+	},
+	{
+		"modId": "596330D9AF34AF38",
+		"name": "ToH ReCharacters Man"
+	},
+	{
+		"modId": "690C24D3A6E6109D",
+		"name": "FF - DynamicLoot"
+	},
+	{
+		"modId": "65FB50F7FA33DECA",
+		"name": "ToH ReCharacters African"
+	},
+	{
+		"modId": "5D6EBC81EB1842EF",
+		"name": "Enfusion Persistence Framework"
+	},
+	{
+		"modId": "612851D73DF01668",
+		"name": "WCS_FlipPush"
+	},
+	{
+		"modId": "61B84088181A8FA4",
+		"name": "Motorbike"
+	},
+	{
+		"modId": "5E0AB16BEB16D6A4",
+		"name": "T-72 Main Battle Tank"
+	},
+	{
+		"modId": "66B2F0B008DC590F",
+		"name": "DynamicLoot"
+	},
+	{
+		"modId": "620E584B1D2C96A4",
+		"name": "Chungus Shotguns"
+	},
+	{
+		"modId": "66DE15760F187E40",
+		"name": "FF-WhereIsTheBattle"
+	},
+	{
+		"modId": "64594B4F6C4E9718",
+		"name": "improved reforger ragdolls"
+	},
+	{
+		"modId": "65FB762EB503CCF9",
+		"name": "ToH ReCharacters Persian"
+	},
+	{
+		"modId": "5E5C154FEE1094BB",
+		"name": "M113 APC"
+	},
+	{
+		"modId": "6190F1B505C08562",
+		"name": "Chungus Launchers"
+	},
+	{
+		"modId": "631D09484433EB0A",
+		"name": "FIA Mi-8"
+	},
+	{
+		"modId": "5E524E4FEECCA92B",
+		"name": "BMP-1 IFV"
+	},
+	{
+		"modId": "658B25CD90247D38",
+		"name": "Dark Echoes"
+	},
+	{
+		"modId": "5D0551624969C92E",
+		"name": "Zeliks Character"
+	},
+	{
+		"modId": "5AE50EC5B8D6F4AE",
+		"name": "British Forces"
+	}
+]
