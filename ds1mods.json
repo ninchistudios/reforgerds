@@ -98,10 +98,6 @@
 		"name": "FF - Loot Transfer"
 	},
 	{
-		"modId": "62E354B50264C08F",
-		"name": "Project Sonar - Radio Stations"
-	},
-	{
 		"modId": "6604E763072BC99B",
 		"name": "FF - British Forces"
 	},
@@ -142,16 +138,8 @@
 		"name": "WCS_Mi-24V"
 	},
 	{
-		"modId": "606B100247F5C709",
-		"name": "Bacon Loadout Editor"
-	},
-	{
 		"modId": "66D6340C1D565C98",
 		"name": "Chungus Core"
-	},
-	{
-		"modId": "68912CC1755A038A",
-		"name": "FF - Recruit Management & UC"
 	},
 	{
 		"modId": "62CCD69DD17E4F2F",
@@ -253,4 +241,4 @@
 		"modId": "5AE50EC5B8D6F4AE",
 		"name": "British Forces"
 	}
-]
+    ]
