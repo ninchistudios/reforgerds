@@ -244,5 +244,17 @@
     {
         "modId": "6875030CAD04AE0A",
         "name": "FF - Trash Can"
+    },
+    {
+        "modId": "631EE12D448D7FCC",
+        "name": "DarcCore"
+    },
+    {
+        "modId": "689EDED542F881AF",
+        "name": "DarcChopper"
+    },
+    {
+        "modId": "692121914CDE6746",
+        "name": "DarcChopperCompatFF"
     }
 ]
