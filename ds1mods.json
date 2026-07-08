@@ -240,5 +240,9 @@
 	{
 		"modId": "5AE50EC5B8D6F4AE",
 		"name": "British Forces"
-	}
-    ]
+	},
+    {
+        "modId": "6875030CAD04AE0A",
+        "name": "FF - Trash Can"
+    }
+]
