@@ -1,6 +1,8 @@
 # About
 
-Reforger DS modlists
+Reforger DS modlists.
+
+Fragments only, not valid server.json files. Public for informed use at own risk. 
 
 ## Temp Blacklist
 
