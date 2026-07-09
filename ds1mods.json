@@ -116,21 +116,80 @@
     },
 
     {
-		"modId": "60C4CE4888FF4621",
-		"name": "ACE Core"
-	},
+        "modId": "65AD7D0D9941A380",
+        "name": "ACE Core Dev",
+        "version": ""
+    },
     {
-		"modId": "5DBD560C5148E1DA",
-		"name": "ACE Carrying"
-	},
-    {
-		"modId": "611CB1D409001EB0",
-		"name": "ACE Magazine Repack"
-	},
-    {
-		"modId": "606C369BAC3F6CC3",
-		"name": "ACE Finger"
-	},
+        "modId": "65AD7BCC9F6B3B4E",
+        "name": "ACE Chopping Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7C139EB4C1A1",
+        "name": "ACE Backblast Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7C379CBD394D",
+        "name": "ACE Carrying Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7C75826B46C6",
+        "name": "ACE Radio Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7CE59E8DB349",
+        "name": "ACE Trenches Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7CF69FAF1FDD",
+        "name": "ACE Compass Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7D1E9EEAFA53",
+        "name": "ACE Explosives Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7D2E9866FA6E",
+        "name": "ACE Finger Dev",
+        "version": ""
+      },
+      {
+        "modId": "65AD7D4099944EBD",
+        "name": "ACE Magazine Repack Dev",
+        "version": ""
+      },
+      {
+        "modId": "65B8EA178A3E94E3",
+        "name": "ACE Overheating Dev",
+        "version": ""
+      },
+      {
+        "modId": "664AFDC993C9CE1A",
+        "name": "ACE Cook-Off Dev",
+        "version": ""
+      },
+      {
+        "modId": "68EAA4B96976D557",
+        "name": "ACE Facepaint Dev",
+        "version": ""
+      },
+      {
+        "modId": "68F77A54920B80AF",
+        "name": "ACE Ballistics Dev",
+        "version": ""
+      },
+      {
+        "modId": "68FC0EDE9F677A3C",
+        "name": "ACE Scopes Dev",
+        "version": ""
+      },
 
     {
 		"modId": "64C912EF952E1075",
