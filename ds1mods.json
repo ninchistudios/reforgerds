@@ -51,13 +51,11 @@
 
     {
         "modId": "62F364B35E9B51B0",
-        "name": "Wirecutters 2",
-        "version": ""
+        "name": "Wirecutters 2"
     },
     {
         "modId": "666028E4A48B0410",
-        "name": "FF - Wirecutters 2",
-        "version": ""
+        "name": "FF - Wirecutters 2"
     },
 
     {
@@ -137,78 +135,63 @@
 
     {
         "modId": "65AD7D0D9941A380",
-        "name": "ACE Core Dev",
-        "version": ""
+        "name": "ACE Core Dev"
     },
     {
         "modId": "65AD7BCC9F6B3B4E",
-        "name": "ACE Chopping Dev",
-        "version": ""
+        "name": "ACE Chopping Dev"
       },
       {
         "modId": "65AD7C139EB4C1A1",
-        "name": "ACE Backblast Dev",
-        "version": ""
+        "name": "ACE Backblast Dev"
       },
       {
         "modId": "65AD7C379CBD394D",
-        "name": "ACE Carrying Dev",
-        "version": ""
+        "name": "ACE Carrying Dev"
       },
       {
         "modId": "65AD7C75826B46C6",
-        "name": "ACE Radio Dev",
-        "version": ""
+        "name": "ACE Radio Dev"
       },
       {
         "modId": "65AD7CE59E8DB349",
-        "name": "ACE Trenches Dev",
-        "version": ""
+        "name": "ACE Trenches Dev"
       },
       {
         "modId": "65AD7CF69FAF1FDD",
-        "name": "ACE Compass Dev",
-        "version": ""
+        "name": "ACE Compass Dev"
       },
       {
         "modId": "65AD7D1E9EEAFA53",
-        "name": "ACE Explosives Dev",
-        "version": ""
+        "name": "ACE Explosives Dev"
       },
       {
         "modId": "65AD7D2E9866FA6E",
-        "name": "ACE Finger Dev",
-        "version": ""
+        "name": "ACE Finger Dev"
       },
       {
         "modId": "65AD7D4099944EBD",
-        "name": "ACE Magazine Repack Dev",
-        "version": ""
+        "name": "ACE Magazine Repack Dev"
       },
       {
         "modId": "65B8EA178A3E94E3",
-        "name": "ACE Overheating Dev",
-        "version": ""
+        "name": "ACE Overheating Dev"
       },
       {
         "modId": "664AFDC993C9CE1A",
-        "name": "ACE Cook-Off Dev",
-        "version": ""
+        "name": "ACE Cook-Off Dev"
       },
       {
         "modId": "68EAA4B96976D557",
-        "name": "ACE Facepaint Dev",
-        "version": ""
+        "name": "ACE Facepaint Dev"
       },
       {
         "modId": "68F77A54920B80AF",
-        "name": "ACE Ballistics Dev",
-        "version": ""
+        "name": "ACE Ballistics Dev"
       },
       {
         "modId": "68FC0EDE9F677A3C",
-        "name": "ACE Scopes Dev",
-        "version": ""
+        "name": "ACE Scopes Dev"
       },
 
     {
@@ -349,13 +332,11 @@
     
     {
         "modId": "62FCEB51DF8527B6",
-        "name": "Improved Blood Effect",
-        "version": ""
+        "name": "Improved Blood Effect"
     },
     {
         "modId": "660896EB172D4B7F",
-        "name": "Improved Blood Effect Deluxe",
-        "version": ""
+        "name": "Improved Blood Effect Deluxe"
     },
 
     {
@@ -369,8 +350,12 @@
     
     {
         "modId": "687E688FB72FAD83",
-        "name": "Carry Equipment",
-        "version": ""
+        "name": "Carry Equipment"
+    },
+
+    {
+        "modId": "597C0CF3A7AA8A99",
+        "name": "BetterSounds 4.0 Alpha"
     }
     
 ]
