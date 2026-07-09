@@ -45,6 +45,17 @@
 	},
 
     {
+        "modId": "62F364B35E9B51B0",
+        "name": "Wirecutters 2",
+        "version": ""
+    },
+    {
+        "modId": "666028E4A48B0410",
+        "name": "FF - Wirecutters 2",
+        "version": ""
+    },
+
+    {
 		"modId": "5D0551624969C92E",
 		"name": "Zeliks Character"
 	},
@@ -326,6 +337,17 @@
 		"modId": "612F512CD4CB21D5",
 		"name": "WCS_Earplugs"
 	},
+    
+    {
+        "modId": "62FCEB51DF8527B6",
+        "name": "Improved Blood Effect",
+        "version": ""
+    },
+    {
+        "modId": "660896EB172D4B7F",
+        "name": "Improved Blood Effect Deluxe",
+        "version": ""
+    },
 
     {
 		"modId": "5F268647F8A1A1F4",
@@ -334,7 +356,13 @@
     {
 		"modId": "64594B4F6C4E9718",
 		"name": "improved reforger ragdolls"
-	}
+	},
+    
+    {
+        "modId": "687E688FB72FAD83",
+        "name": "Carry Equipment",
+        "version": ""
+    }
     
 ]
 	
